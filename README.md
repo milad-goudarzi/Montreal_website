@@ -1,11 +1,9 @@
 ## Group Members
 
-* Evalyn Horemans 10719793
-* Milad Goudarzi 10765491
-* Anthony Ileret 10845359 
-* Muhammad Irfan Mas'udi 10672914 
-
-Contribution for each members refer to Issues in github menu.
+* Milad Goudarzi
+* Evalyn Horemans
+* Anthony Ileret
+* Muhammad Irfan Mas'udi
 
 ## Setup
 
