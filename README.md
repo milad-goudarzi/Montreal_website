@@ -1,4 +1,5 @@
 ## Demo
+This website is implemented by our team at Politecnico di Milano.
 You can demo the website on https://imaje.herokuapp.com/
 
 ## Team Members
