@@ -1,0 +1,43 @@
+{
+  "name": "final-project-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
+    "lint:prettier": "prettier --check .",
+    "lint": "npm run lint:js && npm run lint:prettier",
+    "lintfix": "prettier --write --list-different . && npm run lint:js -- --fix"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "ap-style-title-case": "^1.1.2",
+    "bootstrap": "^5.2.0-beta1",
+    "core-js": "^3.19.3",
+    "express": "^4.17.3",
+    "nuxt": "^2.15.8",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.18.0",
+    "vue": "^2.6.14",
+    "vue-scrollto": "^2.20.0",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.16.3",
+    "@nuxtjs/eslint-config": "^8.0.0",
+    "@nuxtjs/eslint-module": "^3.0.2",
+    "eslint": "^8.4.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-nuxt": "^3.1.0",
+    "eslint-plugin-vue": "^9.1.1",
+    "prettier": "^2.5.1",
+    "sass": "^1.52.1",
+    "sass-loader": "^10.2.1"
+  }
+}
