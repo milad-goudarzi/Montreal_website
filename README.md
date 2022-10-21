@@ -1,7 +1,7 @@
 ## Demo
 You can demo the website on https://imaje.herokuapp.com/
 
-## Group Members
+## Team Members
 
 * Milad Goudarzi
 * Evalyn Horemans
